@@ -1,5 +1,10 @@
+# My live solution:
+
+https://fbw-22-e04.github.io/browser-dom-window-Rami24t/
+
+
 # The Guessing Game
-## Create a guessing game for players. 
+## Create a guessing game for players.
 
 * Randomize a number between 1-10. Do not show the player.
 * Make the player guess the number in a prompt.
